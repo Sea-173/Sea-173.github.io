@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,4 +14,4 @@ I was fortunate to have participated in two research projects focused on distrib
 
 You can find my CV here: [Haibo Zhao's Curriculum Vitae](../assets/sea/Resume.pdf).
 
-[//]: # ([Email]&#40;mailto:XX@stu.pku.edu.cn&#41; / [Github]&#40;https://github.com/QiuDi233&#41; / [Wechat]&#40;../images/wechat.jpg&#41; / [CSDN]&#40;https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343&#41;)
+[Email](mailto:2052535@tongji.edu.cn) / [Github](https://github.com/Sea-173) / [Wechat](../images/sea/wechat.png)
