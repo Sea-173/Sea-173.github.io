@@ -14,4 +14,4 @@ I was fortunate to have participated in two research projects focused on distrib
 
 You can find my CV here: [Haibo Zhao's Curriculum Vitae](../assets/sea/Resume.pdf).
 
-[Email](mailto:2052535@tongji.edu.cn) / [Github](https://github.com/Sea-173) / [Wechat](../images/sea/wechat.png)
+You can contact me through my email: 2052535@tongji.edu.cn, or my wechat[Wechat](../images/sea/wechat.png)
