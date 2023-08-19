@@ -13,16 +13,11 @@ Education
 ======
 * B.S. in Tongji University, Shanghai, Chin, 2020 -- 2024
 
-Preprints
+Publications
 ======
-* A Stochastic Polyhedral Approximation Method for Decentralized Composite Bilevel Optimization
-  * Ya Liu, Kai Yang*, **Haibo Zhao**, Yu Zhu, Keying Yang
-  * Submitted:NuerIPS 2023
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Research Experience
 ======
@@ -44,11 +39,6 @@ Research Experience
     * Used the Huawei HarmonyOS development kit to create a smart sensing device.
   * Result: Developed a functional travel system and successfully completed the project.
 
-Projects
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
