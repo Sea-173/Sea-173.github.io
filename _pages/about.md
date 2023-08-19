@@ -15,3 +15,9 @@ I was fortunate to have participated in two research projects focused on distrib
 You can find my CV here: [Haibo Zhao's Curriculum Vitae](../assets/sea/Resume.pdf).
 
 You can contact me through my [Email](mailto:2052535@tongji.edu.cn) or my [Wechat](../images/sea/wechat.png).
+
+# News
+
+## Our paper [Asynchronous Distributed Bilevel Optimization](https://openreview.net/pdf?id=_i0-12XqVJZ) was published as a conference paper at ICLR 2023
+
+The paper utilized my experimental results and acknowledged my contribution.
