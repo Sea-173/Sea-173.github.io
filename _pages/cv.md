@@ -11,32 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Tongji University, Shanghai, Chin, 2020 -- 2024
 
-Work experience
+Preprints
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* A Stochastic Polyhedral Approximation Method for Decentralized Composite Bilevel Optimization
+  * Ya Liu, Kai Yang*, **Haibo Zhao**, Yu Zhu, Keying Yang
+  * Submitted:NuerIPS 2023
 
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Research Experience
+======
+* Kai Yang lab, Tongji University, Apr 2022 -- Oct 2022, China
+  * Research Topic: Developing a novel algorithmic framework to address bi-level programming problems using the cutting-plane method.
+    * Derived the specific elaboration of the general algorithmic framework in the field of meta-learning.
+    * Utilized PyTorch to complete the code implementation of the algorithm.
+    * Reproduced the code from similar papers (ANIL, iMAML) and conducted a comparison with our method.
+  * Result: The paper was published at ICLR 2023, and my experimental results were adopted.
+* Kai Yang lab, Tongji University, Oct 2022 --  Now, China
+  * Research Topic: Expanding the previous algorithmic framework to a distributed setting and incorporating gradient tracing and proximal gradient.
+    * Completed the mathematical derivation of the algorithmic framework incorporating the proximal gradient.
+    * Implemented the algorithm for meta-learning and hyperparameter optimization using the PyTorch framework.
+    * Reproduced the code from similar papers and conducted a comparison with our method.
+  * Result: Co-authoring a paper currently under submission to NeurIPS.
+* SITP(Student Innovation Training Program), Tongji University, May 2021 --  May 2022, China
+  * Research Topic: Designing a community travel system tailored for the visually impaired population.
+    * Conducted on-site investigations and recorded the travel conditions of the visually impaired community.
+    * Used the Huawei HarmonyOS development kit to create a smart sensing device.
+  * Result: Developed a functional travel system and successfully completed the project.
+
+Projects
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
