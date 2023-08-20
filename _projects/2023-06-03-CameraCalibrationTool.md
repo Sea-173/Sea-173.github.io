@@ -1,7 +1,7 @@
 ---
 title: "Camera Calibration Tool" 
-collection: projects
-type: "Talk"
+collection: talks
+type: "Projects"
 permalink: /projects/2023-06-03-CameraCalibrationTool
 venue: "Computer Vision Course Final Project"
 date: 2023-06-03
