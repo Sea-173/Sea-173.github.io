@@ -1,8 +1,8 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: "Camera Calibration Tool"
 collection: projects
-type: "Talk"
-permalink: /projects/2012-03-01-talk-1
+type: "Project"
+permalink: /projects/2023-06-03-CameraCalibrationTool
 venue: "Computer Vision Course Final Project"
 date: 2023-06-03
 location: "Shanghai, China"
