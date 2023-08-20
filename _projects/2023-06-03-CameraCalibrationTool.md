@@ -10,7 +10,7 @@ excerpt: 'With the help of OpenCV and Qt, we successfully implemented a small
 tool that has similar functionality to MATLAB's camera calibration tool.'
 ---
 
-# Introduction
+Introduction
 
 With the help of OpenCV and Qt, we successfully implemented a small 
 tool that has similar functionality to MATLAB's camera calibration tool.
@@ -19,4 +19,4 @@ This tool is developed by emulating the camera calibration tool in the MATLAB to
 
 Users input five or more images with black and white checkerboard patterns, and the tool can calculate the camera's distortion coefficients and intrinsic parameters, thereby accomplishing image distortion correction.
 
-# Screenshots
+Screenshots
