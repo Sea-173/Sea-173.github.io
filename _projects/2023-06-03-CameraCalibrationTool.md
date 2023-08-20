@@ -21,6 +21,7 @@ Users input five or more images with black and white checkerboard patterns, and 
 
 # Screenshots
 
-![image-20230821001516430](https://gitee.com/Sea-521/sea-pic/raw/master/img/202308210015651.png)
+[//]: # (![image-20230821001516430]&#40;https://gitee.com/Sea-521/sea-pic/raw/master/img/202308210015651.png&#41;)
 
-![image-20230821001638588](https://gitee.com/Sea-521/sea-pic/raw/master/img/202308210016913.png)
+[//]: # ()
+[//]: # (![image-20230821001638588]&#40;https://gitee.com/Sea-521/sea-pic/raw/master/img/202308210016913.png&#41;)
