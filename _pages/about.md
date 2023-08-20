@@ -20,7 +20,7 @@ You can contact me through my [Email](mailto:2052535@tongji.edu.cn) or my [Wecha
 
 ## Our paper [A Stochastic Polyhedral Approximation Method for Decentralized Composite Bilevel Optimization](https://sea-173.github.io/publication/2023-SPAM) has been submitted to NeurIPS 2023.
 
-Our paper is currently awaiting review.
+The paper is currently awaiting review.
 
 ## Our paper [Asynchronous Distributed Bilevel Optimization](https://openreview.net/pdf?id=_i0-12XqVJZ) was published as a conference paper at ICLR 2023
 
