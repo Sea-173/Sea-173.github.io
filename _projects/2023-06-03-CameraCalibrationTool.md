@@ -1,13 +1,26 @@
 ---
-title: "Camera Calibration Tool"
+title: "Camera Calibration Tool" 
 collection: projects
 type: "Project"
 permalink: /projects/2023-06-03-CameraCalibrationTool
 venue: "Computer Vision Course Final Project"
 date: 2023-06-03
 location: "Shanghai, China"
-excerpt: 'In this paper, we propose a Stochastic Polyhedral Approximation Method (SPAM) for composite decentralized bilevel optimization problems.'
+excerpt: 'With the help of OpenCV and Qt, we successfully implemented a small
+tool that has similar functionality to MATLAB's camera calibration tool.'
 ---
 
-With the help of OpenCV and Qt, we have successfully implemented a small 
+# Introduction
+
+With the help of OpenCV and Qt, we successfully implemented a small 
 tool that has similar functionality to MATLAB's camera calibration tool.
+
+This tool is developed by emulating the camera calibration tool in the MATLAB toolbox, offering comprehensive camera calibration functionalities, including distortion coefficient determination and intrinsic parameter estimation. The tool can display real-time histograms representing projection errror, 3D graphs illustrating the relative positioning of the camera and images, and it can also perform real-time photograph calibration.
+
+Users input five or more images with black and white checkerboard patterns, and the tool can calculate the camera's distortion coefficients and intrinsic parameters, thereby accomplishing image distortion correction.
+
+# Screenshots
+
+![image-20230821001516430](https://gitee.com/Sea-521/sea-pic/raw/master/img/202308210015651.png)
+
+![image-20230821001638588](https://gitee.com/Sea-521/sea-pic/raw/master/img/202308210016913.png)
