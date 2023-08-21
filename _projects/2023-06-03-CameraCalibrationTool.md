@@ -22,6 +22,6 @@ Users input five or more images with black and white checkerboard patterns, and 
 
 # Screenshots
 
-<br/><img src='/images/projects/CameraCCalibrationTool/ss1.png'>
+![ss1](../images/projects/CameraCalibrationTool/ss1.png)
 
-<br/><img src='/images/projects/CameraCCalibrationTool/ss2.png'>
+![ss1](../images/projects/CameraCalibrationTool/ss2.png)
