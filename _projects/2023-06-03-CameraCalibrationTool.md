@@ -21,3 +21,7 @@ This tool is developed by emulating the camera calibration tool in the MATLAB to
 Users input five or more images with black and white checkerboard patterns, and the tool can calculate the camera's distortion coefficients and intrinsic parameters, thereby accomplishing image distortion correction.
 
 # Screenshots
+
+![](https://gitee.com/Sea-521/sea-pic/raw/master/img/202308210016913.png)
+
+![](https://gitee.com/Sea-521/sea-pic/raw/master/img/202308210015651.png)
