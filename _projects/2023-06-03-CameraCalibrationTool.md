@@ -22,6 +22,6 @@ Users input five or more images with black and white checkerboard patterns, and 
 
 # Screenshots
 
-![](https://gitee.com/Sea-521/sea-pic/raw/master/img/202308210016913.png)
+<br/><img src='/images/projects/CameraCCalibrationTool/ss1.png'>
 
-![](https://gitee.com/Sea-521/sea-pic/raw/master/img/202308210015651.png)
+<br/><img src='/images/projects/CameraCCalibrationTool/ss2.png'>
