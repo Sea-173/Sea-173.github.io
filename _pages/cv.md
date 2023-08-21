@@ -51,35 +51,12 @@ Research Experience
 **Result**: Developed a functional travel system and successfully completed the project.
 
 # Projects
-======
   <ul>{% for post in site.projects %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 # Honors
-
-[//]: # (Talks)
-
-[//]: # (======)
-
-[//]: # (  <ul>{% for post in site.talks %})
-
-[//]: # (    {% include archive-single-talk-cv.html %})
-
-[//]: # (  {% endfor %}</ul>)
-
-[//]: # (Teaching)
-
-[//]: # (======)
-
-[//]: # (  <ul>{% for post in site.teaching %})
-
-[//]: # (    {% include archive-single-cv.html %})
-
-[//]: # (  {% endfor %}</ul>)
-
-[//]: # (Service and leadership)
-
-[//]: # (======)
-
-[//]: # (* Currently signed in to 43 different slack teams)
+- **Second Prize**, ChinaUndergraduate Mathematical Contest in Modelling at University-level. -- May 2021
+- **First Prize**, International College Students' 'Internet+' Innovation and Entrepreneurship at University-level. -- Jun 2021
+- **Second Prize**, ChinaUndergraduate Mathematical Contest in Modelling at Province-level. -- Nov 2021
+- **Second Prize**, National College Student Electrical and Mathematical Modeling Competition at National-level. -- May 2023
