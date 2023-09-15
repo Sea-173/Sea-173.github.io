@@ -12,9 +12,12 @@ I'm a third year undergraduate student from [School of Software Engineering](htt
 
 I was fortunate to have participated in two research projects focused on distributed machine learning and optimization under the guidance of [Prof. Yang](https://see.tongji.edu.cn/info/1379/10355.htm) from [School of Electronic and Information Engineering](https://see.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn/).
 
-You can find my CV here: [Haibo Zhao's Curriculum Vitae](../assets/sea/Resume.pdf).
+You can find my CV here: [Haibo Zhao's Curriculum Vitae](../assets/sea/Resume.pdf), along with a Chinese version: 
+[CV](../assets/sea/同济大学-赵海博-软件工程-简历.pdf).
 
 You can contact me through my [Email](mailto:2052535@tongji.edu.cn) or my [Wechat](../images/sea/wechat.png).
+
+Here are my [transcripts](../assets/sea/Academic%20Record.pdf) and [TOEFL scores](../assets/sea/Toefl%20Grade.pdf).
 
 # News
 
