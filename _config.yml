@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Haibo Zhao"
-  avatar           : "Sea_2.jpg"
+  avatar           : "/sea/Sea_2.jpg"
   bio              : "2052535@tongji.edu.cn"
   location         : "Shanghai, China"
   employer         :
